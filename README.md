@@ -1,2 +1,2 @@
 # juml
-JuPyther Notebooks für juml Kurs
+JuPyter Notebooks für juml Kurs
